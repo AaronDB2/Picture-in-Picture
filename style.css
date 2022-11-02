@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+html {
+	/*Prevents padding to be added so that you dont get the horizontal scroll bar*/
+	box-sizing: border-box; 
+}
+
+body {
+	margin: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: rgb(37, 37, 37);
+	font-family: 'Heebo', sans-serif;
+}
+
